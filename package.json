@@ -1,0 +1,45 @@
+{
+  "name": "casefile-zyjeski-com",
+  "version": "1.0.0",
+  "description": "A futuristic legal case file website showcasing 'The State vs. Simulant 7' - an interactive evidence locker for a fictional AI rights court case.",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "http-server public -p 8000 -o",
+    "dev": "http-server public -p 8000 -o",
+    "serve": "http-server public -p 8000",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zekusmaximus/casefile-zyjeski-com.git"
+  },
+  "keywords": [
+    "static-website",
+    "html",
+    "css",
+    "javascript",
+    "sci-fi",
+    "legal",
+    "ai",
+    "fiction",
+    "interactive",
+    "netlify"
+  ],
+  "author": "Jeff Zyjeski <jeff@zyjeski.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zekusmaximus/casefile-zyjeski-com/issues"
+  },
+  "homepage": "https://casefile.zyjeski.com",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
