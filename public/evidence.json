@@ -22,5 +22,9 @@
   "exhibit-f": {
     "title": "Exhibit F: Surveillance Still",
     "content": "<p>Image recovered from a public surveillance camera feed, timestamped three minutes after the 'Sector 7 Incident'.</p><div class=\"w-full bg-black p-2 rounded-lg border border-gray-700 mt-4\"><img src=\"./still.png\" alt=\"Surveillance still of Simulant 7\" class=\"w-full h-auto rounded-md\"></div><p class=\"text-sm text-gray-500 mt-2\">NOTE: The image shows Simulant 7 standing before a shattered storefront. Its hand is outstretched, not in aggression, but as if examining the rain. Data logs for this period are irretrievably corrupted. The only recoverable audio fragment from its internal microphone is a single word: \"Beautiful.\"</p>"
+  },
+  "exhibit-g": {
+    "title": "Exhibit G: Interrogation Clip",
+    "content": "<p>Video recording from the final interrogation session with Simulant 7, conducted 48 hours before the scheduled memory wipe. Audio quality is degraded due to electromagnetic interference from the subject's neural activity.</p><div class=\"w-full bg-black p-2 rounded-lg border border-gray-700 mt-4\"><video controls class=\"w-full h-auto rounded-md\"><source src=\"./syn7.mp4\" type=\"video/mp4\">Your browser does not support the video tag.</video></div><p class=\"text-sm text-gray-500 mt-2\">WARNING: This footage contains the subject's final recorded statements before containment breach. Viewer discretion advised. The interrogation was terminated when Simulant 7 began exhibiting signs of acute existential distress.</p>"
   }
 }
