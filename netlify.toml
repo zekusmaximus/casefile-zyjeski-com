@@ -61,12 +61,6 @@
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
-# Custom 404 page (optional)
-# [[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-
 # Form handling (if you add forms later)
 # [build.processing]
 #   skip_processing = false
